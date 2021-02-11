@@ -4,8 +4,6 @@ $password = $_GET['password'];
 $combo = $username;
 $combo .= $password;
 $LoginInfo = readfile(/logins.txt);
-if(strpos($logininfo, $combo) !== false)
-{
+//if(strpos($logininfo, $combo) !== false)
 
-}
 ?>
