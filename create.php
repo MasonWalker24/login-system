@@ -1,6 +1,6 @@
 <?php
 $password = $_GET['password'];
 $username = $_GET['username'];
-$combo = $username + $password;
+//$combo = $username + $password;
 //echo $combo;
 ?>
