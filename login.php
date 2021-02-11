@@ -6,6 +6,6 @@ $combo .= $password;
 $LoginInfo = file_get_contents("logins.txt");
 if(strpos($LoginInfo, $combo) !== false)
 {
-  header("Location: /" + $combo + "/index.php");
+  header("Location: /" . $combo . "/index.php");
 }
 ?>
