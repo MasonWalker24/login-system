@@ -5,5 +5,6 @@ $combo = $username;
 $combo .= $password;
 fopen("logins.txt", "a");
 $file = fopen("logins.txt", "a");
-fwrite($file, $username + $password);
+//fwrite($file, $username + $password);
+echo $combo;
 ?>
