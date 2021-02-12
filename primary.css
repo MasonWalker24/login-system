@@ -13,8 +13,9 @@ top: 22%;
 position: absolute;
   left: 65%;
   top: 35%;
-  width: 22%;
+  width: 25%;
   height: 6%;
+  font-size: 1.5vw;
 }
 
 .signupsubmit
