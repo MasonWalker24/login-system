@@ -20,7 +20,9 @@ position: absolute;
 
 .signupsubmit
 {
-
+position: absolute;
+  left: 77.5%;
+  top: 40%;
 }
 
 .loginuser
