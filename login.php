@@ -3,6 +3,7 @@ $username = $_GET['username'];
 $password = $_GET['password'];
 $combo = $username;
 $combo .= $password;
+$url = $combo;
 $url = str_replace("a", "1", $url);
 $url = str_replace("e", "2", $url);
 $url = str_replace("i", "3", $url);
