@@ -19,4 +19,8 @@ if(strpos($LoginInfo, $combo) !== false)
 {
   header("Location: /" . $url . "/index.php");
 }
+else
+{
+  header("Location: /index.html");
+}
 ?>
