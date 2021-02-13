@@ -29,7 +29,7 @@ position: absolute;
 .loginuser
 {
 position: absolute;
-left: 25%;
+left: 15%;
 top: 22%;
   width: 25%;
   height: 6%;
@@ -39,7 +39,7 @@ top: 22%;
 .loginpass
 {
 position: absolute;
-  left: 25%;
+  left: 15%;
   top: 35%;
   width: 25%;
   height: 6%;
@@ -49,7 +49,7 @@ position: absolute;
 .loginsubmit
 {
 position: absolute;
-  left: 30%;
+  left: 20%;
   top: 42%;
   width: 15%;
 }
