@@ -2,7 +2,7 @@
 {
 position: absolute;
 left: 60%;
-top: 22%;
+top: 25%;
   width: 25%;
   height: 6%;
   font-size: 1.5vw;
@@ -12,7 +12,7 @@ top: 22%;
 {
 position: absolute;
   left: 60%;
-  top: 35%;
+  top: 38%;
   width: 25%;
   height: 6%;
   font-size: 1.5vw;
@@ -22,7 +22,7 @@ position: absolute;
 {
 position: absolute;
   left: 65%;
-  top: 42%;
+  top: 48%;
   width: 15%;
 }
 
@@ -30,7 +30,7 @@ position: absolute;
 {
 position: absolute;
 left: 15%;
-top: 22%;
+top: 25%;
   width: 25%;
   height: 6%;
   font-size: 1.5vw;
@@ -40,7 +40,7 @@ top: 22%;
 {
 position: absolute;
   left: 15%;
-  top: 35%;
+  top: 38%;
   width: 25%;
   height: 6%;
   font-size: 1.5vw;
@@ -50,6 +50,6 @@ position: absolute;
 {
 position: absolute;
   left: 20%;
-  top: 42%;
+  top: 48%;
   width: 15%;
 }
