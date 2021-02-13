@@ -25,6 +25,8 @@ position: absolute;
   top: 48%;
   width: 15%;
   height: 7%;
+  background: none;
+  border: #409cff;
 }
 
 .loginuser
