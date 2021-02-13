@@ -34,33 +34,34 @@ position: absolute;
 .loginuser
 {
 position: absolute;
-left: 15%;
+left: 10%;
 top: 25%;
-  width: 25%;
-  height: 6%;
+  width: 80%;
+  height: 12%;
   font-size: 1.5vw;
 }
 
 .loginpass
 {
 position: absolute;
-  left: 15%;
-  top: 38%;
-  width: 25%;
-  height: 6%;
+  left: 10%;
+  top: 42%;
+  width: 80%;
+  height: 12%;
   font-size: 1.5vw;
 }
 
 .loginsubmit
 {
 position: absolute;
-  left: 20%;
-  top: 48%;
-  width: 15%;
-  height: 7%;
+  left: 30%;
+  top: 75%;
+  width: 40%;
+  height: 15%;
   background: none;
-  border: solid 4px #409cff;
+  border: solid 4px white;
   font-size: 1.6vw;
+  color: white;
 }
 .registerdiv
 {
