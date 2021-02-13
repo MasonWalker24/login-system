@@ -62,3 +62,9 @@ position: absolute;
   border: solid 4px #409cff;
   font-size: 1.6vw;
 }
+.registerdiv
+{
+ position: absolute;
+  backround: #409cff;
+  left: 5%;
+}
