@@ -1,6 +1,11 @@
 <?php
 $password = $_GET['password'];
+$password2 = $_GET['password2'];
 $username = $_GET['username'];
+if ($password == $password2)
+{
+  header("Location: /signuperror.html");
+}
 $combo = $username;
 $combo .= $password;
 $url = $combo;
