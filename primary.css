@@ -28,15 +28,28 @@ position: absolute;
 
 .loginuser
 {
-
+position: absolute;
+left: 65%;
+top: 22%;
+  width: 25%;
+  height: 6%;
+  font-size: 1.5vw;
 }
 
 .loginpass
 {
-
+position: absolute;
+  left: 65%;
+  top: 35%;
+  width: 25%;
+  height: 6%;
+  font-size: 1.5vw;
 }
 
 .loginsubmit
 {
-
+position: absolute;
+  left: 70%;
+  top: 42%;
+  width: 15%;
 }
