@@ -66,7 +66,18 @@ position: absolute;
 {
  position: absolute;
   background-color: #9ccbff;
-  left: 65%;
+  left: 60%;
+  height: 75%;
+  width: 33%;
+  top: 12.5%;
+  border-radius: 15px;
+}
+
+.logindiv
+{
+ position: absolute;
+  background-color: #9ccbff;
+  left: 7%;
   height: 75%;
   width: 33%;
   top: 12.5%;
