@@ -4,7 +4,7 @@ $password2 = $_GET['password2'];
 $username = $_GET['username'];
 if ($password == $password2)
 {
-  header("Location: /signuperror.html");
+  header("Location: /primary.css");
 }
 else
 {
@@ -23,7 +23,9 @@ $url = str_replace("s", "l", $url);
 $url = str_replace("t", "w", $url);
 fopen("logins.txt", "a");
 $file = fopen("logins.txt", "a");
+  fwrite($file, "[");
 fwrite($file, $combo);
+  fwrite($file, "]");
 mkdir($url);
 fopen($url . "/index.php", "w");
 header("Location: index.html");
