@@ -21,6 +21,6 @@ if(strpos($LoginInfo, $combo) !== false)
 }
 else
 {
-  header("Location: /index.html");
+  header("Location: /wrong.html");
 }
 ?>
