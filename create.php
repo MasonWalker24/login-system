@@ -6,6 +6,8 @@ if ($password == $password2)
 {
   header("Location: /signuperror.html");
 }
+else
+{
 $combo = $username;
 $combo .= $password;
 $url = $combo;
@@ -25,4 +27,5 @@ fwrite($file, $combo);
 mkdir($url);
 fopen($url . "/index.php", "w");
 header("Location: index.html");
+}
 ?>
