@@ -1,7 +1,7 @@
 .signupuser
 {
 position: absolute;
-left: 65%;
+left: 60%;
 top: 22%;
   width: 25%;
   height: 6%;
@@ -11,7 +11,7 @@ top: 22%;
 .signuppass
 {
 position: absolute;
-  left: 65%;
+  left: 60%;
   top: 35%;
   width: 25%;
   height: 6%;
@@ -21,7 +21,7 @@ position: absolute;
 .signupsubmit
 {
 position: absolute;
-  left: 70%;
+  left: 65%;
   top: 42%;
   width: 15%;
 }
