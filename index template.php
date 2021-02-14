@@ -1,6 +1,7 @@
 <?php
+mkdir("uploads");
 $file = $_FILE['upload'];
-move_uploaded_file($file, "");
+move_uploaded_file($file, "uploads");
 ?>
 
 <html>
