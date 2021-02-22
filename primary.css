@@ -93,6 +93,4 @@ position: absolute;
   width: 33%;
   top: 12.5%;
   border-radius: 15px;
-  -webkit-transform: rotate(20deg);
-  display: block;
 }
